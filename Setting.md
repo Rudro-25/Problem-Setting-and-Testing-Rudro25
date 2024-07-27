@@ -9,6 +9,6 @@
 07 | A,B,D,H | ---- | [Tri-University Collaborative Onsite Programming Contest powered by bdapps](https://codeforces.com/gym/442658) | [Blog](-) | 09.05.2023 | CodeForces(Gym) |
 08 | [Range Max and It's Frequency](https://www.hackerrank.com/contests/intra-department-programming-contest-2021-cse-university-of-barisal/challenges/range-max-and-its-frequency)| `Segment Tree` | Intra University contest |  |  August/6/2022 | HackerRank | 
 09 | A (Ballon D'or) | BitMask DP | [ICT Division presents – 7th DRMC International Tech Carnival 2024 Programming Contest - Preliminary](https://toph.co/c/7th-drmc-international-tech-carnival-2024) |  |  May 4, 2024 | Toph | 
-10 | B, C | ----- | [ICT Division presents – 7th DRMC International Tech Carnival 2024 Programming Contest - Onsite](https://toph.co/c/7th-drmc-international-tech-carnival-2024(https://toph.co/contests/training/kldhdrk) |  |  May 10, 2024 | Toph | 
+10 | B, C | ----- | [ICT Division presents – 7th DRMC International Tech Carnival 2024 Programming Contest - Onsite](https://toph.co/contests/training/kldhdrk) |  |  May 10, 2024 | Toph | 
 11 | A, F | ----- | [CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary](https://toph.co/arena?practice=668bfdd7a4f184cd2ac3e749#!/dashboard) |  |  July 4, 2024 | Toph | 
 12 |  | ----- | [CUSS IT Fiesta 2024 Inter University Programming Contest Onsite]() |  |  August, 2024 | Toph | 
