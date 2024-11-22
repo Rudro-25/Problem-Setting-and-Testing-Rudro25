@@ -11,4 +11,7 @@
 09 | A (Ballon D'or) | BitMask DP | [ICT Division presents – 7th DRMC International Tech Carnival 2024 Programming Contest - Preliminary](https://toph.co/c/7th-drmc-international-tech-carnival-2024) |  |  May 4, 2024 | Toph | 
 10 | B, C | ----- | [ICT Division presents – 7th DRMC International Tech Carnival 2024 Programming Contest - Onsite](https://toph.co/contests/training/kldhdrk) |  |  May 10, 2024 | Toph | 
 11 | A, F | ----- | [CUSS IT Fiesta 2024 Inter University Programming Contest Preliminary](https://toph.co/arena?practice=668bfdd7a4f184cd2ac3e749#!/dashboard) |  |  July 4, 2024 | Toph | 
-12 |  | ----- | [CUSS IT Fiesta 2024 Inter University Programming Contest Onsite]() |  |  August, 2024 | Toph | 
+12 | D, F | ----- | [CUSS IT Fiesta 2024 Inter University Programming Contest Onsite](https://toph.co/contests/training/rxbqtb6) |  |  November, 2024 | Toph | 
+12 | D | ----- | [Khulna Regional Inter University Programming Contest (KRIUPC)](https://toph.co/c/khulna-regional-inter-university-kriupc) |  |  November, 2024 | Toph | 
+12 | Prepared (D,E,F) | ----- | [Metropolitan University Inter University Programming Contest - Sylhet Division 2024](https://toph.co/c/inter-university-sylhet-division-2024) |  |  November, 2024 | Toph | 
+11 |  | ----- | [PSTU]() |  |  July 4, 2024 | Toph | 
